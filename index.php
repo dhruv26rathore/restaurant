@@ -82,10 +82,10 @@ th{
 			        		<a class="nav-link" href="#Welcome">Welcome</a>
 			      		</li>
 					    <li class="nav-item">
-					    	<a class="nav-link" href="#Restaurant">Restaurant</a>
+					    	<a class="nav-link" href="#Restaurant">Restaurant List</a>
 					    </li>
 					    <li class="nav-item">
-					    	<a class="nav-link" href="#Menu">Menu</a>
+					    	<a class="nav-link" href="#Menu">Feedback</a>
 					    </li>
 					    <li class="nav-item">
 					    	<a class="nav-link" href="#Reservation">Reservation</a>
