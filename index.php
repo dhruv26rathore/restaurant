@@ -95,7 +95,7 @@ th{
 					    </li>
 					    <li class="nav-item">
 					    	<a href="#" class="language" rel="it-IT"><img src="images/india.ico" class="flag" alt="Italiano"></a>
-					    	<a href="index.html" class="language" rel="en-En"><img src="images/english.ico" class="flag" alt="English"></a>
+					   
 					    </li>
 				    </ul>
 				</div>
